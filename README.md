@@ -14,7 +14,7 @@ It is a numerical value ranges between zero to one which helps to determine how 
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
 ![image](https://user-images.githubusercontent.com/84233710/151780428-5e49342f-14da-487b-946e-34ac92870df2.png)
 
-More about Cosine Similarity : Understanding the Math behind Cosine Similarity
+More about Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/
 
 # Link for Similarity.pkl :
 https://drive.google.com/file/d/1nD8_DTsFeWAtfogU6YBAy0L9gncF4q1E/view?usp=sharing
